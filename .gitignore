@@ -1,0 +1,46 @@
+Environment variables
+
+---------------------
+
+Ignore the file holding secret API keys
+
+.env
+
+Python
+
+------
+
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual environments
+
+Use venv/ or .venv/ depending on your folder name
+
+venv/
+.venv/
+env/
+.env/
+
+Jupyter Notebook
+
+----------------
+
+Checkpoint files
+
+.ipynb_checkpoints
+
+Operating System
+
+----------------
+
+macOS
+
+.DS_Store
+
+Windows
+
+Thumbs.db
