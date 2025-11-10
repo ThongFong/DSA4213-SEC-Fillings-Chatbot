@@ -1,0 +1,280 @@
+[
+    {
+        "question": "What are the main risk factors mentioned by each companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "According to the provided context:\n\nFor Apple (AAPL):\n- The main risk factors are not explicitly detailed in the provided context. However, it is mentioned that there have been no material changes to the Company's risk factors since the 2024 Form 10-K, as stated in \"Item 1A. Risk Factors\" from Source 1.\n\nFor AMD:\n- The main risk factors include:\n  1. Intel Corporation\u2019s dominance of the microprocessor market and its aggressive business practices, which may limit AMD's ability to compete effectively (Source 2).\n  2. The highly competitive and rapidly evolving markets in which AMD's products are sold (Source 4).\n  3. The cyclical nature of the semiconductor industry, which has experienced severe downturns (Source 4).\n\nThese risk factors are summarized in \"ITEM 1A. RISK FACTORS\" from Sources 2, 3, 4, and 5.",
+            "sources": [
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2025-01-31",
+                    "rerank_score": 4.052553176879883,
+                    "retrieval_score": 0.66504186
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2025-05-07",
+                    "rerank_score": 3.531270980834961,
+                    "retrieval_score": 0.6457008
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2024-10-30",
+                    "rerank_score": 3.531270980834961,
+                    "retrieval_score": 0.6457008
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2025-08-06",
+                    "rerank_score": 2.6218490600585938,
+                    "retrieval_score": 0.6941526
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2025-11-05",
+                    "rerank_score": 2.6218490600585938,
+                    "retrieval_score": 0.6941526
+                }
+            ]
+        }
+    },
+    {
+        "question": "What risks did Apple disclose in their latest 10-Q?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The specific risks disclosed by Apple in their latest 10-Q are not detailed in the provided context. However, it is mentioned that there have been no material changes to the Company\u2019s risk factors since the 2023 Form 10-K (Source 1). Additionally, it is noted that various factors can impact the Company's future gross margins, which are discussed under the heading \u201cRisk Factors\u201d in Part I, Item 1A of the 2024 Form 10-K and Part II, Item 1A of the current Form 10-Q (Source 2). Furthermore, certain events can disrupt Apple's operations, such as manufacturing and delivery challenges, supply chain inefficiencies, service outages, increased costs, and negative impacts on consumer spending and demand (Source 5).",
+            "sources": [
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2024-08-02",
+                    "rerank_score": 3.032876968383789,
+                    "retrieval_score": 0.73129255
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "is_table": false,
+                    "filing_date": "2025-05-02",
+                    "rerank_score": 2.4537081718444824,
+                    "retrieval_score": 0.6190381
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "is_table": false,
+                    "filing_date": "2025-05-02",
+                    "rerank_score": 2.0474185943603516,
+                    "retrieval_score": 0.5701291
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "is_table": false,
+                    "filing_date": "2024-08-02",
+                    "rerank_score": 2.0157394409179688,
+                    "retrieval_score": 0.57001466
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "is_table": false,
+                    "filing_date": "2025-05-02",
+                    "rerank_score": 0.8327776193618774,
+                    "retrieval_score": 0.6020463
+                }
+            ]
+        }
+    },
+    {
+        "question": "Compare the revenue trends of NVIDIA and AMD",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context, we can observe the following revenue trends for NVIDIA and AMD:\n\n**NVIDIA:**\n- For the second quarter and first half of fiscal year 2026, NVIDIA's revenue from sales to customers outside of the United States accounted for 53% of total revenue, compared to 48% for the first quarter of fiscal year 2025 (Source 2).\n- Sales to one direct customer, Customer A, represented 16% of total revenue, indicating a significant concentration of revenue from a single customer (Source 2).\n- In the third quarter of fiscal year 2024, sales to one direct customer represented 12% of total revenue, and sales to a second direct customer represented 11% of total revenue for the first nine months of fiscal year 2024, both attributable to the Compute & Networking segment (Source 5).\n\n**AMD:**\n- For the three months ended September 27, 2025, AMD reported net revenue of $9.2 billion, a 36% increase compared to the prior year period. This increase was driven by strong demand in the Client and Gaming segment, particularly for AMD Ryzen\u2122 processors, semi-custom game console SoCs, and Radeon\u2122 gaming GPUs, as well as an increase in the Data Center segment due to demand for AMD EPYC\u2122 processors and AMD Instinct\u2122 MI350 Series GPUs (Source 3).\n- AMD's gross margin for the same period was 52%, up from 50% in the prior year period, primarily due to product mix (Source 3).\n\nIn summary, both NVIDIA and AMD experienced growth in their respective revenue streams, with NVIDIA showing a significant portion of its revenue coming from international sales and specific large customers, while AMD demonstrated a substantial year-over-year increase in net revenue driven by strong demand across multiple product segments.",
+            "sources": [
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2025-08-27",
+                    "rerank_score": 0.8773373365402222,
+                    "retrieval_score": 0.5922023
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2025-05-28",
+                    "rerank_score": 0.6547396779060364,
+                    "retrieval_score": 0.59254766
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "is_table": true,
+                    "filing_date": "2025-11-05",
+                    "rerank_score": 0.6100887656211853,
+                    "retrieval_score": 0.6258495
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2024-08-28",
+                    "rerank_score": 0.05709152668714523,
+                    "retrieval_score": 0.63921
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2024-11-20",
+                    "rerank_score": 0.026721986010670662,
+                    "retrieval_score": 0.65455294
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was Tesla's R&D spending in the latest quarter?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "No relevant context found.",
+            "sources": []
+        }
+    },
+    {
+        "question": "How has Microsoft's operating income changed over the last year?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The provided context does not include specific information about changes in Microsoft's operating income over the last year. The context only contains reviews of interim financial information, confirming that no material modifications are needed for conformity with accounting principles, but it does not provide specific financial figures or changes in operating income.",
+            "sources": [
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2025-04-30",
+                    "rerank_score": -2.2424612045288086,
+                    "retrieval_score": 0.4946725
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2025-01-29",
+                    "rerank_score": -2.400404691696167,
+                    "retrieval_score": 0.49722368
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2025-10-29",
+                    "rerank_score": -3.821760654449463,
+                    "retrieval_score": 0.44650227
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2024-10-30",
+                    "rerank_score": -3.8560104370117188,
+                    "retrieval_score": 0.44688287
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 1",
+                    "is_table": false,
+                    "filing_date": "2025-04-30",
+                    "rerank_score": -8.673856735229492,
+                    "retrieval_score": 0.39488146
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was the gross profit margin for all companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The context provided only includes information about AMD's gross profit margin. According to the data:\n\n- For the three months ended September 27, 2025, AMD's gross margin was 52%.\n- For the three months ended September 28, 2024, AMD's gross margin was 50%.\n- For the three months ended March 29, 2025, AMD's gross margin was 50%.\n\nThere is no information provided about the gross profit margin for any other companies.",
+            "sources": [
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "is_table": true,
+                    "filing_date": "2024-10-30",
+                    "rerank_score": -0.14538130164146423,
+                    "retrieval_score": 0.5920562
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "is_table": true,
+                    "filing_date": "2025-11-05",
+                    "rerank_score": -0.15220321714878082,
+                    "retrieval_score": 0.5399463
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "is_table": true,
+                    "filing_date": "2025-11-05",
+                    "rerank_score": -1.582480788230896,
+                    "retrieval_score": 0.5121201
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "is_table": true,
+                    "filing_date": "2024-10-30",
+                    "rerank_score": -1.7765475511550903,
+                    "retrieval_score": 0.57006776
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "is_table": true,
+                    "filing_date": "2025-05-07",
+                    "rerank_score": -2.3970956802368164,
+                    "retrieval_score": 0.5564097
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "question": "What are the main risk factors mentioned by tech companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context from AMD's SEC 10-Q filings, the main risk factors mentioned include:\n\n1. **Economic and Strategic Risks**:\n   - Intel Corporation\u2019s dominance of the microprocessor market and its aggressive business practices may limit AMD's ability to compete effectively on a level playing field (Source 1, 2, 5).\n   - The markets in which AMD's products are sold are highly competitive and rapidly evolving (Source 3, 4).\n   - The semiconductor industry is highly cyclical and has experienced severe downturns (Source 3, 4).\n\n2. **General Risks**:\n   - AMD's worldwide operations are subject to political, legal, and economic risks and natural disasters (Source 5).\n   - AMD may incur future impairments of its technology license purchases (Source 5).\n   - The inability to continue to attract and retain qualified personnel may hinder AMD's business (Source 5).\n   - AMD's stock price is subject to volatility (Source 5).\n\nThese risk factors highlight the challenges AMD faces in terms of market competition, industry cycles, operational risks, and financial volatility.",
+            "sources": [
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-05-07",
+                    "score": 0.7126335
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-10-30",
+                    "score": 0.71263343
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-11-05",
+                    "score": 0.7040031
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-08-06",
+                    "score": 0.7040031
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-10-30",
+                    "score": 0.66872287
+                }
+            ]
+        }
+    },
+    {
+        "question": "What risks did Apple disclose in their latest 10-Q?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "According to the provided context, Apple did not disclose any new material changes to their risk factors in their latest 10-Q. Specifically, \"there have been no material changes to the Company\u2019s risk factors since the 2023 Form 10-K\" (Source 1, AAPL - ITEM 1A). Therefore, the risks disclosed remain consistent with those previously reported in their 2023 Form 10-K.",
+            "sources": [
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-08-02",
+                    "score": 0.73129255
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "score": 0.6399538
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "score": 0.6190381
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-05-02",
+                    "score": 0.6020463
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-08-02",
+                    "score": 0.59745425
+                }
+            ]
+        }
+    },
+    {
+        "question": "Compare the revenue trends of NVIDIA and AMD",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context, NVIDIA and AMD both experienced revenue growth, but the details and drivers of this growth differ between the two companies.\n\nFor NVIDIA:\n- Sales to one direct customer represented 12% of total revenue for the third quarter of fiscal year 2024, and sales to a second direct customer represented 11% of total revenue for the first nine months of fiscal year 2024, both attributable to the Compute & Networking segment (Source 1).\n\nFor AMD:\n- Net revenue for the three months ended March 29, 2025, was $7.4 billion, a 36% increase compared to the prior year period. This increase was driven by growth in the Data Center segment, particularly from AMD EPYC\u2122 CPU and AMD Instinct\u2122 GPU sales, and in the Client and Gaming segment due to strong demand for \u201cZen 5\u201d AMD Ryzen\u2122 processors (Source 4).\n- Net revenue for the three months ended September 27, 2025, was $9.2 billion, also a 36% increase compared to the prior year period. This growth was driven by strong demand for AMD Ryzen\u2122 processors, semi-custom game console SoCs, Radeon\u2122 gaming GPUs, and 5th generation AMD EPYC\u2122 processors and AMD Instinct\u2122 MI350 Series GPUs (Source 5).\n\nIn summary, both companies experienced revenue growth, with NVIDIA's growth being significantly influenced by sales to major customers in the Compute & Networking segment, while AMD's growth was driven by strong demand across its Data Center and Client and Gaming segments.",
+            "sources": [
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-11-20",
+                    "score": 0.6545528
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-11-20",
+                    "score": 0.6414225
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-08-28",
+                    "score": 0.6392099
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-07",
+                    "score": 0.6337849
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-11-05",
+                    "score": 0.6258494
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was Tesla's R&D spending in the latest quarter?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The specific amount of Tesla's R&D spending in the latest quarter is not provided in the context. The context only provides information about the percentage increase and the factors contributing to the change in R&D expenses.",
+            "sources": [
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "score": 0.58176154
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-23",
+                    "score": 0.56872857
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-07-24",
+                    "score": 0.555519
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "score": 0.5433042
+                },
+                {
+                    "ticker": "GOOGL",
+                    "company": "Alphabet Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-30",
+                    "score": 0.5300351
+                }
+            ]
+        }
+    },
+    {
+        "question": "What risks did Apple disclose in their latest 10-Q?",
+        "ticker_filter_manual": "MSFT",
+        "response": {
+            "answer": "The provided context does not contain information about Apple's 10-Q filing or the risks disclosed by Apple. The context only includes information from Microsoft's 10-Q filing.",
+            "sources": [
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-04-30",
+                    "score": 0.38372752
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 3",
+                    "part": "PART I",
+                    "filing_date": "2025-10-29",
+                    "score": 0.3547099
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 3",
+                    "part": "PART I",
+                    "filing_date": "2025-04-30",
+                    "score": 0.3547099
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 3",
+                    "part": "PART I",
+                    "filing_date": "2025-01-29",
+                    "score": 0.3547099
+                },
+                {
+                    "ticker": "MSFT",
+                    "company": "MICROSOFT CORP",
+                    "item": "ITEM 3",
+                    "part": "PART I",
+                    "filing_date": "2024-10-30",
+                    "score": 0.3547099
+                }
+            ]
+        }
+    }
+]

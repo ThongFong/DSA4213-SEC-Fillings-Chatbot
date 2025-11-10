@@ -1,0 +1,40 @@
+# Core dependencies
+python-dotenv==1.0.0
+
+# LangChain ecosystem
+langchain-openai==0.1.0
+langchain-core==0.1.0
+langchain-text-splitters==0.0.1
+
+# OpenAI
+openai==1.12.0
+
+# Embedding and NLP models
+sentence-transformers==2.3.1
+transformers==4.37.2
+torch==2.2.0
+
+# Vector database
+qdrant-client==1.7.3
+
+# Web scraping and parsing
+beautifulsoup4==4.12.3
+lxml==5.1.0
+requests==2.31.0
+
+# Machine learning utilities
+scikit-learn==1.4.0
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.0
+
+# Jupyter (if running notebooks)
+jupyter==1.0.0
+ipywidgets==8.1.1
+
+# Progress bars
+tqdm==4.66.1
+
+# Memory management
+gc-python-utils==0.1.0

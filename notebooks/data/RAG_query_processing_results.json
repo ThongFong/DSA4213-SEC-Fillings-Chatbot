@@ -1,0 +1,296 @@
+[
+    {
+        "question": "What are the main risk factors mentioned by each companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context, the main risk factors mentioned by each company are as follows:\n\n**AMD (Advanced Micro Devices):**\n1. The markets in which AMD's products are sold are highly competitive and rapidly evolving.\n2. The semiconductor industry is highly cyclical and has experienced severe downturns.\n3. Intel Corporation's dominance of the microprocessor market and its aggressive business practices may limit AMD's ability to compete effectively on a level playing field.\n\n**AAPL (Apple Inc.):**\n1. The company's business, reputation, results of operations, financial condition, and stock price can be affected by a number of factors, whether currently known or unknown. Specific risk factors are detailed in their 2024 Form 10-K under the heading \"Risk Factors.\" However, no specific risk factors are detailed in the provided context.",
+            "sources": [
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-08-06",
+                    "score": 0.6941526
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-11-05",
+                    "score": 0.6941526
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-01-31",
+                    "score": 0.66504186
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-05-07",
+                    "score": 0.6457008
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-10-30",
+                    "score": 0.6457008
+                }
+            ]
+        }
+    },
+    {
+        "question": "What risks did Apple disclose in their latest 10-Q?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "In their latest 10-Q, Apple disclosed several risks, including:\n\n1. **Macroeconomic Conditions**: Apple noted that macroeconomic conditions such as inflation, interest rates, and currency fluctuations have impacted and could continue to materially impact the company's results of operations and financial condition.\n\n2. **Supply Chain and Manufacturing Risks**: Events that disrupt Apple's ability to manufacture and deliver products, create delays and inefficiencies in the supply and manufacturing chain, result in slowdowns and outages to service offerings, increase costs, and negatively impact consumer spending and demand in affected areas.\n\n3. **Gross Margin Volatility**: The company acknowledged that future gross margins could be subject to volatility and downward pressure due to various factors.\n\nThese risks are part of the broader set of risk factors that Apple regularly updates and discusses in their filings, as referenced in their 2024 Form 10-K and subsequent 10-Q filings.",
+            "sources": [
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-08-02",
+                    "score": 0.73129255
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "score": 0.6399538
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "score": 0.6190381
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-05-02",
+                    "score": 0.6020463
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-08-02",
+                    "score": 0.59745425
+                }
+            ]
+        }
+    },
+    {
+        "question": "Compare the revenue trends of NVIDIA and AMD",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context, we can observe the following revenue trends for NVIDIA and AMD:\n\n**NVIDIA:**\n1. **Revenue Concentration:** NVIDIA's revenue is significantly concentrated, with two direct customers accounting for 12% and 11% of total revenue for the third quarter and the first nine months of fiscal year 2024, respectively. This indicates a reliance on a few key customers, particularly in the Compute & Networking segment.\n2. **Cost of Revenue:** NVIDIA's cost of revenue for the third quarter of fiscal years 2025 and 2024 was $543 million and $473 million, respectively. For the first nine months, it was $1.3 billion and $734 million, respectively. This suggests an increase in cost of revenue year-over-year, which could imply higher sales or increased costs associated with production or services.\n\n**AMD:**\n1. **Revenue Growth:** AMD experienced a 36% increase in net revenue for both the three months ended March 29, 2025, and September 27, 2025, compared to the prior year periods. This growth was driven by increased demand in the Data Center segment, particularly for AMD EPYC\u2122 CPUs and AMD Instinct\u2122 GPUs, as well as strong demand in the Client and Gaming segment for AMD Ryzen\u2122 processors and Radeon\u2122 gaming GPUs.\n2. **Segment Performance:** The Client and Gaming segment showed strong performance due to demand for new processors and gaming products, while the Embedded segment saw a decrease due to mixed demand in end markets.\n3. **Gross Margin:** AMD's gross margin increased from 50% to 52% for the three months ended September 27, 2025, indicating improved profitability, likely due to a favorable product mix.\n\n**Comparison:**\n- **Growth Rate:** AMD shows a robust revenue growth rate of 36% year-over-year for the periods mentioned, driven by strong demand across multiple segments. In contrast, NVIDIA's revenue details are more focused on customer concentration and cost of revenue, without specific growth rates provided.\n- **Profitability:** AMD's increase in gross margin suggests improved profitability, whereas NVIDIA's data does not provide specific gross margin figures, focusing instead on cost of revenue.\n- **Market Focus:** Both companies are experiencing growth in data center and gaming-related products, but AMD's detailed segment performance highlights specific product lines contributing to growth, such as the AMD EPYC\u2122 and Ryzen\u2122 processors.\n\nOverall, AMD appears to be experiencing significant revenue growth and improved profitability, while NVIDIA's data highlights customer concentration and increased costs, without specific growth metrics.",
+            "sources": [
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-11-20",
+                    "score": 0.65455294
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-11-20",
+                    "score": 0.6414226
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-08-28",
+                    "score": 0.63921
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-07",
+                    "score": 0.63378495
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-11-05",
+                    "score": 0.6258495
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was Tesla's R&D spending in the latest quarter?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "In the latest quarter, which is the three months ended September 30, 2025, Tesla's R&D expenses increased by $591 million, or 57%, compared to the same period in 2024. However, the exact amount of R&D spending for the latest quarter is not directly provided in the context. To determine the exact spending, one would need the R&D expenses for the three months ended September 30, 2024, and then add the $591 million increase to that figure.",
+            "sources": [
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "score": 0.58176154
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-23",
+                    "score": 0.56872857
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-07-24",
+                    "score": 0.555519
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "score": 0.5433042
+                },
+                {
+                    "ticker": "GOOGL",
+                    "company": "Alphabet Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-30",
+                    "score": 0.5300351
+                }
+            ]
+        }
+    },
+    {
+        "question": "How has Microsoft's operating income changed over the last year?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The provided context does not contain any information about Microsoft's operating income. The context only includes financial data for Google (GOOGL) and AMD. To determine how Microsoft's operating income has changed over the last year, you would need to refer to Microsoft's financial statements or reports.",
+            "sources": [
+                {
+                    "ticker": "GOOGL",
+                    "company": "Alphabet Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-30",
+                    "score": 0.56707263
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-30",
+                    "score": 0.5590473
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-07",
+                    "score": 0.5586965
+                },
+                {
+                    "ticker": "GOOGL",
+                    "company": "Alphabet Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-30",
+                    "score": 0.5536115
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-11-05",
+                    "score": 0.55264515
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was the gross profit margin for all companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context, here are the gross profit margins for the companies mentioned:\n\n1. **NVIDIA (NVDA):**\n   - Second quarter of fiscal year 2025: 75.1%\n   - First half of fiscal year 2025: 76.6%\n   - Second quarter of fiscal year 2024: 70.1%\n   - First half of fiscal year 2024: 68.2%\n\n2. **Oracle (ORCL):**\n   - The context does not provide specific gross profit margin percentages for Oracle. The information provided focuses on the exclusion of certain costs and expenses from the reported margins, and a reconciliation to income before income taxes is mentioned but not detailed in the context.\n\n3. **Apple (AAPL):**\n   - For the three months ended June 28, 2025:\n     - Products: 34.5%\n     - Services: 75.6%\n     - Total: 46.5%\n   - For the nine months ended June 29, 2024:\n     - Products: 35.3%\n     - Services: 74.0%\n     - Total: 46.3%\n\nThese figures represent the gross profit margins as reported in the context for each company.",
+            "sources": [
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-08-28",
+                    "score": 0.64541626
+                },
+                {
+                    "ticker": "ORCL",
+                    "company": "ORACLE CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-09-10",
+                    "score": 0.63102657
+                },
+                {
+                    "ticker": "ORCL",
+                    "company": "ORACLE CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2025-03-11",
+                    "score": 0.6256748
+                },
+                {
+                    "ticker": "ORCL",
+                    "company": "ORACLE CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-12-10",
+                    "score": 0.623245
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-08-01",
+                    "score": 0.60308135
+                }
+            ]
+        }
+    }
+]
