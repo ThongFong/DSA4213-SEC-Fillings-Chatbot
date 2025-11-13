@@ -1,0 +1,326 @@
+[
+    {
+        "question": "What are the main risk factors mentioned by each companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "According to the provided context:\n\nFor Apple (AAPL):\n- The main risk factors are not explicitly detailed in the provided context. However, it is mentioned that there have been no material changes to the Company's risk factors since the 2024 Form 10-K, as stated in \"Item 1A. Risk Factors.\"\n\nFor AMD:\n- The main risk factors include:\n  - Intel Corporation\u2019s dominance of the microprocessor market and its aggressive business practices, which may limit AMD's ability to compete effectively (Source 2).\n  - The highly competitive and rapidly evolving markets in which AMD's products are sold (Source 4 and Source 5).\n  - The cyclical nature of the semiconductor industry, which has experienced severe downturns (Source 4 and Source 5).",
+            "sources": [
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-01-31",
+                    "rerank_score": 4.052548885345459,
+                    "retrieval_score": 0.6650419
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-10-30",
+                    "rerank_score": 3.5312724113464355,
+                    "retrieval_score": 0.6457008
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-05-07",
+                    "rerank_score": 3.5312724113464355,
+                    "retrieval_score": 0.6457008
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-11-05",
+                    "rerank_score": 2.6218485832214355,
+                    "retrieval_score": 0.6941527
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-08-06",
+                    "rerank_score": 2.6218485832214355,
+                    "retrieval_score": 0.6941527
+                }
+            ]
+        }
+    },
+    {
+        "question": "What risks did Apple disclose in their latest 10-Q?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "According to the provided context, Apple disclosed several risks in their latest 10-Q. These include:\n\n1. **Supply Chain and Manufacturing Risks**: Events that can make it difficult or impossible for Apple to manufacture and deliver products, create delays and inefficiencies in the supply and manufacturing chain, result in slowdowns and outages to service offerings, increase costs, and negatively impact consumer spending and demand in affected areas (Source 3, AAPL - ITEM 1A).\n\n2. **Macroeconomic Conditions**: Inflation, interest rates, and currency fluctuations have directly and indirectly impacted, and could in the future materially impact, Apple's results of operations and financial condition (Source 5, AAPL - ITEM 2).\n\n3. **Gross Margin Volatility**: Apple's future gross margins can be impacted by a variety of factors, leading to volatility and downward pressure (Source 2, AAPL - ITEM 2).\n\nThere have been no material changes to the Company\u2019s risk factors since the 2023 Form 10-K (Source 1, AAPL - ITEM 1A).",
+            "sources": [
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2024-08-02",
+                    "rerank_score": 3.0328774452209473,
+                    "retrieval_score": 0.73129255
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "rerank_score": 2.453707456588745,
+                    "retrieval_score": 0.61903816
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 1A",
+                    "part": "PART II",
+                    "filing_date": "2025-05-02",
+                    "rerank_score": 0.8327788710594177,
+                    "retrieval_score": 0.6020463
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 4",
+                    "part": "PART I",
+                    "filing_date": "2025-01-31",
+                    "rerank_score": 0.6506606340408325,
+                    "retrieval_score": 0.5810492
+                },
+                {
+                    "ticker": "AAPL",
+                    "company": "Apple Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "rerank_score": -0.7295615673065186,
+                    "retrieval_score": 0.6399536
+                }
+            ]
+        }
+    },
+    {
+        "question": "Compare the revenue trends of NVIDIA and AMD",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "Based on the provided context, we can observe the following revenue trends for NVIDIA and AMD:\n\n**NVIDIA:**\n- One customer represented approximately 17% and 13% of total revenue for the second quarter and first half of fiscal year 2024, respectively, indicating a significant contribution from a single customer to NVIDIA's revenue (Source 1).\n- Revenue from sales to customers outside of the United States accounted for 53% and 48% of total revenue for the first quarter of fiscal years 2026 and 2025, respectively, showing a strong international presence (Source 3).\n\n**AMD:**\n- Net revenue for the three months ended September 27, 2025, was $9.2 billion, a 36% increase compared to the prior year period. This increase was driven by strong demand in the Client and Gaming segment, particularly for AMD Ryzen\u2122 processors, semi-custom game console SoCs, and Radeon\u2122 gaming GPUs, as well as an increase in the Data Center segment due to demand for AMD EPYC\u2122 processors and AMD Instinct\u2122 MI350 Series GPUs (Source 4).\n\nIn summary, NVIDIA's revenue trends show a significant reliance on a major customer and a strong international market presence, while AMD's revenue trends indicate substantial growth driven by demand in specific product segments, particularly in gaming and data center markets.",
+            "sources": [
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-08-28",
+                    "rerank_score": 1.2984683513641357,
+                    "retrieval_score": 0.6962025
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2025-08-27",
+                    "rerank_score": 0.8773385286331177,
+                    "retrieval_score": 0.5922023
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2025-05-28",
+                    "rerank_score": 0.6547403335571289,
+                    "retrieval_score": 0.5925478
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-11-05",
+                    "rerank_score": 0.6100896596908569,
+                    "retrieval_score": 0.62584937
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 1",
+                    "part": "PART I",
+                    "filing_date": "2024-08-28",
+                    "rerank_score": 0.05709492787718773,
+                    "retrieval_score": 0.6392099
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was Tesla's R&D spending in the latest quarter?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The specific amount of Tesla's R&D spending in the latest quarter is not provided in the context. However, according to Source 1 (TSLA - ITEM 2), R&D expenses increased by $591 million, or 57%, in the three months ended September 30, 2025, compared to the same period in 2024.",
+            "sources": [
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-23",
+                    "rerank_score": -0.5319883823394775,
+                    "retrieval_score": 0.56872857
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-07-24",
+                    "rerank_score": -0.9580634236335754,
+                    "retrieval_score": 0.555519
+                },
+                {
+                    "ticker": "GOOGL",
+                    "company": "Alphabet Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-30",
+                    "rerank_score": -1.2042651176452637,
+                    "retrieval_score": 0.47753525
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "rerank_score": -1.2376147508621216,
+                    "retrieval_score": 0.58176154
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "rerank_score": -1.2653589248657227,
+                    "retrieval_score": 0.5433042
+                }
+            ]
+        }
+    },
+    {
+        "question": "How has Microsoft's operating income changed over the last year?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "The provided context does not contain any information about Microsoft's operating income. The context only includes information about Amazon's and AMD's operating income.",
+            "sources": [
+                {
+                    "ticker": "AMZN",
+                    "company": "AMAZON COM INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-08-01",
+                    "rerank_score": 1.640457034111023,
+                    "retrieval_score": 0.58176726
+                },
+                {
+                    "ticker": "AMZN",
+                    "company": "AMAZON COM INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-05-02",
+                    "rerank_score": 0.6783565878868103,
+                    "retrieval_score": 0.5743594
+                },
+                {
+                    "ticker": "AMZN",
+                    "company": "AMAZON COM INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-11-01",
+                    "rerank_score": 0.23614761233329773,
+                    "retrieval_score": 0.57806855
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-30",
+                    "rerank_score": -0.25920960307121277,
+                    "retrieval_score": 0.5474214
+                },
+                {
+                    "ticker": "AMD",
+                    "company": "ADVANCED MICRO DEVICES INC",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-30",
+                    "rerank_score": -0.7682978510856628,
+                    "retrieval_score": 0.5497329
+                }
+            ]
+        }
+    },
+    {
+        "question": "What was the gross profit margin for all companies?",
+        "ticker_filter_manual": null,
+        "response": {
+            "answer": "According to the provided context:\n\n- For NVIDIA (NVDA):\n  - The gross margin was 75.1% for the second quarter of fiscal year 2025 and 76.6% for the first half of fiscal year 2025 (Source 1).\n  - The gross margin was 74.6% for the third quarter of fiscal year 2025 (Source 2).\n\n- For Tesla (TSLA):\n  - The gross margin was 19.8% for the period referenced in Source 3.\n  - The gross margin was 17.2% and 18.0% for the periods referenced in Source 4.\n  - The gross margin was 18.0% and 19.8% for the periods referenced in Source 5.\n\nThese are the gross profit margins for the periods mentioned in the context for both companies.",
+            "sources": [
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-08-28",
+                    "rerank_score": 4.210312843322754,
+                    "retrieval_score": 0.64541614
+                },
+                {
+                    "ticker": "NVDA",
+                    "company": "NVIDIA CORP",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-11-20",
+                    "rerank_score": 3.3715436458587646,
+                    "retrieval_score": 0.5875741
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2024-10-24",
+                    "rerank_score": 2.172232151031494,
+                    "retrieval_score": 0.6658612
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-07-24",
+                    "rerank_score": 1.9312669038772583,
+                    "retrieval_score": 0.6527761
+                },
+                {
+                    "ticker": "TSLA",
+                    "company": "Tesla, Inc.",
+                    "item": "ITEM 2",
+                    "part": "PART I",
+                    "filing_date": "2025-10-23",
+                    "rerank_score": 1.8279365301132202,
+                    "retrieval_score": 0.6704154
+                }
+            ]
+        }
+    }
+]
