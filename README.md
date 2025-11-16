@@ -331,7 +331,7 @@ See `data/` folder for:
 - Correct vs. hallucinated scatter plots (Figure 4)
 - Box plots for all metrics
 
-## 🔧 Technologies
+## 🔧 Technology Stack
 
 | Component | Technology |
 |-----------|------------|
