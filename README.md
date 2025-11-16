@@ -7,18 +7,18 @@ A systematic evaluation of an advanced Retrieval-Augmented Generation (RAG) pipe
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Findings](#key-findings)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Model Architectures](#model-architectures)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Results](#results)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [Citation](#citation)
-- [License](#license)
+- [Overview](#-overview)
+- [Key Findings](#-key-findings)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Model Architectures](#-model-architectures)
+- [Evaluation Metrics](#-evaluation-metrics)
+- [Results](#-results)
+- [Technologies](#-technologies)
+- [Contributing](#-contributing)
+- [Citation](#-citation)
+- [License](#-license)
 
 ## 🎯 Overview
 
@@ -64,30 +64,32 @@ We built a custom benchmark of 125+ financial questions across 10 major companie
 ```
 sec-10q-rag-pipeline/
 ├── data/
-│   ├── SEC_QnA.csv                      # Ground-truth benchmark (125+ Q&A pairs)
-│   ├── evaluation_results.csv           # Quantitative comparison results
-│   ├── baseline_no_RAG_results.json     # Model 1 outputs
-│   ├── base_RAG_results.json            # Model 2 outputs
-│   ├── RAG_NER_results.json             # Model 3 outputs
-│   ├── RAG_query_processing_results.json # Model 4 outputs
-│   ├── RAG_post_retrieval_results.json  # Model 5 outputs
-│   ├── RAG_full_pipeline_results.json   # Model 6 outputs
-│   └── *.png                            # Evaluation plots
+│   ├── SEC_QnA.csv                          # Ground-truth benchmark (125+ Q&A pairs)
+│   ├── evaluation_results.csv               # Quantitative comparison results
+│   ├── baseline_no_RAG_results.json         # Model 1 outputs
+│   ├── base_RAG_results.json                # Model 2 outputs
+│   ├── RAG_NER_results.json                 # Model 3 outputs
+│   ├── RAG_query_processing_results.json    # Model 4 outputs
+│   ├── RAG_post_retrieval_results.json      # Model 5 outputs
+│   ├── RAG_full_pipeline_results.json       # Model 6 outputs
+│   └── *.png                                # Evaluation plots
 ├── notebooks/
-│   ├── 0_build_database.ipynb           # 🔧 Build vector database
-│   ├── 1_base_no_RAG.ipynb              # Model 1: Baseline
-│   ├── 2_base_RAG.ipynb                 # Model 2: Base RAG
-│   ├── 3_RAG_NER.ipynb                  # Model 3: NER Filtering
-│   ├── 4_RAG_query_processing.ipynb     # Model 4: Query Expansion
-│   ├── 5_RAG_post_retrieval.ipynb       # Model 5: Re-ranking
-│   ├── 6_RAG_full_pipeline.ipynb        # Model 6: Full Pipeline
-│   └── evaluation.ipynb                 # 📊 Evaluation & Analysis
+│   ├── 0_build_database.ipynb               # 🔧 Build vector database
+│   ├── 1_base_no_RAG.ipynb                  # Model 1: Baseline
+│   ├── 2_base_RAG.ipynb                     # Model 2: Base RAG
+│   ├── 3_RAG_NER.ipynb                      # Model 3: NER Filtering
+│   ├── 4_RAG_query_processing.ipynb         # Model 4: Query Expansion
+│   ├── 5_RAG_post_retrieval.ipynb           # Model 5: Re-ranking
+│   ├── 6_RAG_full_pipeline.ipynb            # Model 6: Full Pipeline
+│   └── evaluation.ipynb                     # 📊 Evaluation & Analysis
 ├── report/
-│   └── report.pdf                       # Full project report (LaTeX)
-├── .env.example                         # Environment variables template
+│   └── DSA4213_Final_Report_Group_46.pdf    # Full project report (LaTeX)
+├── images/
+│   └── diagram1.png                         # Data ingestion and vectorization pipeline
+│   └── diagram2.png                         # Full advanced RAG query pipeline
 ├── .gitignore
-├── requirements.txt                     # Python dependencies
-└── README.md                            # This file
+├── requirements.txt                         # Python dependencies
+└── README.md                                # This file
 ```
 
 ## 🛠️ Installation
@@ -205,7 +207,7 @@ This notebook:
 
 The first pipeline transforms raw SEC filings into a queryable vector database:
 
-![Data Ingestion Pipeline](diagram1.jpg)
+![Data Ingestion Pipeline](images/diagram1.jpg)
 
 **Key Steps:**
 1. **Fetch Metadata**: Retrieves 10-Q filings via SEC EDGAR API
@@ -217,7 +219,7 @@ The first pipeline transforms raw SEC filings into a queryable vector database:
 
 The full pipeline integrates multiple enhancement techniques for accurate retrieval:
 
-![Advanced RAG Pipeline](diagram2.jpg)
+![Advanced RAG Pipeline](images/diagram2.jpg)
 
 **Pipeline Flow:**
 1. **User Query**: Natural language financial question
@@ -357,11 +359,11 @@ Please open an issue or submit a pull request.
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{cher2024sec10q,
+@article{
   title={Multi-Model NLP Approach for Retrieval, Question Answering, and Summarization of SEC 10-Q Filings},
   author={Cher, Calmen and Chan, Thong Fong and Ng, Zhi Min},
   journal={DSA4213 Natural Language Processing for Data Science},
-  year={2024},
+  year={2025},
   institution={National University of Singapore}
 }
 ```
