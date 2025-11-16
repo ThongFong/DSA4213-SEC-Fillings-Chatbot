@@ -3,7 +3,7 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A systematic evaluation of an advanced Retrieval-Augmented Generation (RAG) pipeline for answering complex financial questions using SEC 10-Q quarterly filings. This project demonstrates that sophisticated retrieval engineering—particularly NER-based filtering and cross-encoder re-ranking—can improve numerical accuracy by 28% compared to naive RAG implementations.
+A systematic evaluation of an advanced Retrieval-Augmented Generation (RAG) pipeline for answering complex financial questions using SEC 10-Q quarterly filings. This project demonstrates that sophisticated retrieval engineering, particularly NER-based filtering and cross-encoder re-ranking can improve numerical accuracy by 28% compared to naive RAG implementations.
 
 ## 📋 Table of Contents
 
