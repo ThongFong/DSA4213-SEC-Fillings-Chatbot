@@ -12,10 +12,10 @@ A systematic evaluation of an advanced Retrieval-Augmented Generation (RAG) pipe
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
-- [Model Architectures](#-model-architectures)
+- [System Architectures](#-system-architectures)
 - [Evaluation Metrics](#-evaluation-metrics)
 - [Results](#-results)
-- [Technologies](#-technologies)
+- [Technology Stack](#-technology-stack)
 - [Contributing](#-contributing)
 - [Citation](#-citation)
 - [License](#-license)
@@ -330,7 +330,7 @@ See `data/` folder for:
 - Correct vs. hallucinated scatter plots (Figure 4)
 - Box plots for all metrics
 
-## 🔧 Technologies
+## 🔧 Technology Stack
 
 | Component | Technology |
 |-----------|------------|
